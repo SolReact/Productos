@@ -1,2 +1,2 @@
 # Productos
-productos
+productos.json
